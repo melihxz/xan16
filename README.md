@@ -36,4 +36,4 @@ This project is designed as a simple CPU emulator application. The CPU emulator 
 
 4. **Run:**
 
-   After building, an executable file named `cpu_emulator` will be created. You can run this file to use the emulator.
+   After building, an executable file named `emulator` will be created. You can run this file to use the emulator.
